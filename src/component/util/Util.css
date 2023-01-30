@@ -1,0 +1,21 @@
+.header_wrap{
+    height: 4.5em;
+    background-color:#0067A3 ;
+}
+.header_container{
+    height: 100%;
+    color: white;
+}
+#tet{
+    color: white;
+    padding: 1em;
+    font-size: 1.2em;
+    margin-left: 1.5em;
+}
+#menu_btn:hover{
+    cursor: pointer;
+}
+#menu_btn{
+    padding: 0.1em;
+    margin-left: 0.5em;
+}
