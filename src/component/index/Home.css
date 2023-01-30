@@ -20,9 +20,14 @@
 }
 .flex_compo{
     flex: 0.8;
-    margin-top: 2em;
+    padding-left: 3em;
 }
 .model_head{
     font-size: 2em;
     font-weight: bold;
+    margin-bottom: 0.7em;
+}
+.model_content{
+    line-height: 1.7em;
+    font-size: 1.1em;
 }
