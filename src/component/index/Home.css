@@ -12,3 +12,17 @@
     width: 100%;
     margin-top:3em ;
 }
+.flex_wrap{
+    display: flex;
+}
+.second_mt{
+    margin-top: 3em;
+}
+.flex_compo{
+    flex: 0.8;
+    margin-top: 2em;
+}
+.model_head{
+    font-size: 2em;
+    font-weight: bold;
+}

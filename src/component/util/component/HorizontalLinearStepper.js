@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import {useEffect} from "react";
 
-const steps = ['Select campaign settings', 'Create an ad group', 'Create an ad'];
+const steps = ['Select campaign settings', 'Select Model', 'Create an ad'];
 
 export default function HorizontalLinearStepper({changeShow}) {
     const [activeStep, setActiveStep] = React.useState(0);
